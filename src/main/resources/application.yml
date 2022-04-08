@@ -1,0 +1,13 @@
+server:
+  port: 8989
+
+
+
+
+computer:
+  type:
+    - dell
+    - lenovo
+    - asus
+  price: [2000,3000,4000]
+  prod: 2022/4/7
