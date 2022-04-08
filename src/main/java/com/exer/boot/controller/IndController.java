@@ -9,6 +9,6 @@ public class IndController {
     @ResponseBody
     @GetMapping("/sec")
     public String hello(){
-        return "另外一种写法----";
+        return "另外一种写法----——————————————————————";
     }
 }
